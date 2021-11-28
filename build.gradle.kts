@@ -15,6 +15,7 @@ dependencies {
     implementation("com.google.code.gson:gson:2.8.9")
     implementation(files("libs/kotlin-compiler.jar"))
     implementation(files("libs/ide-common-1.5.255-SNAPSHOT.jar"))
+    implementation("org.jetbrains.intellij.deps:trove4j:1.0.20200330")
     testImplementation("org.jetbrains.kotlin:kotlin-test:1.6.0")
 }
 

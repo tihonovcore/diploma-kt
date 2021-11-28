@@ -1,0 +1,1 @@
+{ "request_type": "EXTRACT_PATHS", "request": "/home/tihonovcore/diploma/kotlin/compiler/testData/codegen/box/javaInterop/objectMethods/cloneCallsSuperAndModifies.kt" }

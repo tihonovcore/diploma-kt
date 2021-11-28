@@ -1,0 +1,3366 @@
+{
+  "classes": [
+    {
+      "id": 0,
+      "name": "kotlin.Int",
+      "isBasic": true,
+      "superTypes": [
+        1,
+        2,
+        4
+      ],
+      "properties": [],
+      "functions": [
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0,
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 21,
+          "dependencies": [
+            16,
+            21
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 21,
+          "dependencies": [
+            0,
+            21
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 23,
+          "dependencies": [
+            19,
+            23
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 21,
+          "dependencies": [
+            20,
+            21
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "id": 1,
+      "name": "kotlin.Number",
+      "isBasic": false,
+      "superTypes": [
+        2
+      ],
+      "properties": [],
+      "functions": [
+        {
+          "parameters": [],
+          "returnType": 16,
+          "dependencies": [
+            16
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 8,
+          "dependencies": [
+            8
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 20,
+          "dependencies": [
+            20
+          ]
+        }
+      ],
+      "dependencies": [
+        16,
+        0,
+        17,
+        2,
+        18,
+        19,
+        20,
+        8
+      ]
+    },
+    {
+      "id": 2,
+      "name": "kotlin.Any",
+      "isBasic": true,
+      "superTypes": [],
+      "properties": [],
+      "functions": [
+        {
+          "parameters": [
+            2
+          ],
+          "returnType": 3,
+          "dependencies": [
+            2,
+            3
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 6,
+          "dependencies": [
+            6
+          ]
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "id": 3,
+      "name": "kotlin.Boolean",
+      "isBasic": true,
+      "superTypes": [
+        4,
+        2
+      ],
+      "properties": [],
+      "functions": [
+        {
+          "parameters": [
+            3
+          ],
+          "returnType": 3,
+          "dependencies": [
+            3
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 3,
+          "dependencies": [
+            3
+          ]
+        },
+        {
+          "parameters": [
+            3
+          ],
+          "returnType": 3,
+          "dependencies": [
+            3
+          ]
+        },
+        {
+          "parameters": [
+            3
+          ],
+          "returnType": 3,
+          "dependencies": [
+            3
+          ]
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "id": 4,
+      "name": "kotlin.Comparable",
+      "isBasic": false,
+      "superTypes": [
+        2
+      ],
+      "properties": [],
+      "functions": [
+        {
+          "parameters": [
+            5
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0,
+            5
+          ]
+        }
+      ],
+      "dependencies": [
+        0,
+        2,
+        5
+      ]
+    },
+    {
+      "id": 5,
+      "name": "kotlin.Comparable.T",
+      "isBasic": false,
+      "superTypes": [
+        2
+      ],
+      "properties": [],
+      "functions": [
+        {
+          "parameters": [
+            2
+          ],
+          "returnType": 3,
+          "dependencies": [
+            2,
+            3
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 6,
+          "dependencies": [
+            6
+          ]
+        }
+      ],
+      "dependencies": [
+        0,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "id": 6,
+      "name": "kotlin.String",
+      "isBasic": false,
+      "superTypes": [
+        2,
+        7
+      ],
+      "properties": [],
+      "functions": [],
+      "dependencies": [
+        2,
+        7
+      ]
+    },
+    {
+      "id": 7,
+      "name": "kotlin.CharSequence",
+      "isBasic": true,
+      "superTypes": [
+        2
+      ],
+      "properties": [
+        0
+      ],
+      "functions": [
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 8,
+          "dependencies": [
+            0,
+            8
+          ]
+        },
+        {
+          "parameters": [
+            0,
+            0
+          ],
+          "returnType": 7,
+          "dependencies": [
+            0,
+            7
+          ]
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "id": 8,
+      "name": "kotlin.Char",
+      "isBasic": true,
+      "superTypes": [
+        4,
+        2
+      ],
+      "properties": [],
+      "functions": [
+        {
+          "parameters": [],
+          "returnType": 8,
+          "dependencies": [
+            8
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 8,
+          "dependencies": [
+            8
+          ]
+        },
+        {
+          "parameters": [
+            8
+          ],
+          "returnType": 0,
+          "dependencies": [
+            8,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 8,
+          "dependencies": [
+            0,
+            8
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 8,
+          "dependencies": [
+            0,
+            8
+          ]
+        },
+        {
+          "parameters": [
+            8
+          ],
+          "returnType": 9,
+          "dependencies": [
+            8,
+            9
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 16,
+          "dependencies": [
+            16
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 8,
+          "dependencies": [
+            8
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 20,
+          "dependencies": [
+            20
+          ]
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "id": 9,
+      "name": "kotlin.ranges.CharRange",
+      "isBasic": false,
+      "superTypes": [
+        10,
+        2,
+        11,
+        14
+      ],
+      "properties": [],
+      "functions": [],
+      "dependencies": [
+        10,
+        2,
+        11,
+        14
+      ]
+    },
+    {
+      "id": 10,
+      "name": "kotlin.ranges.CharProgression",
+      "isBasic": false,
+      "superTypes": [
+        2,
+        11
+      ],
+      "properties": [
+        8,
+        8,
+        0
+      ],
+      "functions": [
+        {
+          "parameters": [],
+          "returnType": 3,
+          "dependencies": [
+            3
+          ]
+        }
+      ],
+      "dependencies": [
+        0,
+        2,
+        3,
+        8,
+        11
+      ]
+    },
+    {
+      "id": 11,
+      "name": "kotlin.collections.Iterable",
+      "isBasic": false,
+      "superTypes": [
+        2
+      ],
+      "properties": [],
+      "functions": [
+        {
+          "parameters": [],
+          "returnType": 12,
+          "dependencies": [
+            12
+          ]
+        }
+      ],
+      "dependencies": [
+        12,
+        2
+      ]
+    },
+    {
+      "id": 12,
+      "name": "kotlin.collections.Iterator",
+      "isBasic": false,
+      "superTypes": [
+        2
+      ],
+      "properties": [],
+      "functions": [
+        {
+          "parameters": [],
+          "returnType": 3,
+          "dependencies": [
+            3
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 13,
+          "dependencies": [
+            13
+          ]
+        }
+      ],
+      "dependencies": [
+        2,
+        3,
+        13
+      ]
+    },
+    {
+      "id": 13,
+      "name": "kotlin.collections.Iterator.T",
+      "isBasic": false,
+      "superTypes": [
+        2
+      ],
+      "properties": [],
+      "functions": [
+        {
+          "parameters": [
+            2
+          ],
+          "returnType": 3,
+          "dependencies": [
+            2,
+            3
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 6,
+          "dependencies": [
+            6
+          ]
+        }
+      ],
+      "dependencies": [
+        0,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "id": 14,
+      "name": "kotlin.ranges.ClosedRange",
+      "isBasic": false,
+      "superTypes": [
+        2
+      ],
+      "properties": [
+        15,
+        15
+      ],
+      "functions": [
+        {
+          "parameters": [
+            15
+          ],
+          "returnType": 3,
+          "dependencies": [
+            15,
+            3
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 3,
+          "dependencies": [
+            3
+          ]
+        }
+      ],
+      "dependencies": [
+        2,
+        3,
+        15
+      ]
+    },
+    {
+      "id": 15,
+      "name": "kotlin.ranges.ClosedRange.T",
+      "isBasic": false,
+      "superTypes": [
+        4,
+        2
+      ],
+      "properties": [],
+      "functions": [],
+      "dependencies": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": 16,
+      "name": "kotlin.Byte",
+      "isBasic": true,
+      "superTypes": [
+        1,
+        2,
+        4
+      ],
+      "properties": [],
+      "functions": [
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0,
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 16,
+          "dependencies": [
+            16
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 16,
+          "dependencies": [
+            16
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 21,
+          "dependencies": [
+            16,
+            21
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 21,
+          "dependencies": [
+            0,
+            21
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 23,
+          "dependencies": [
+            19,
+            23
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 21,
+          "dependencies": [
+            20,
+            21
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "id": 17,
+      "name": "kotlin.Double",
+      "isBasic": true,
+      "superTypes": [
+        1,
+        2,
+        4
+      ],
+      "properties": [],
+      "functions": [
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 17,
+          "dependencies": [
+            16,
+            17
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 17,
+          "dependencies": [
+            0,
+            17
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 17,
+          "dependencies": [
+            20,
+            17
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 17,
+          "dependencies": [
+            16,
+            17
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 17,
+          "dependencies": [
+            0,
+            17
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 17,
+          "dependencies": [
+            20,
+            17
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 17,
+          "dependencies": [
+            16,
+            17
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 17,
+          "dependencies": [
+            0,
+            17
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 17,
+          "dependencies": [
+            20,
+            17
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 17,
+          "dependencies": [
+            16,
+            17
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 17,
+          "dependencies": [
+            0,
+            17
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 17,
+          "dependencies": [
+            20,
+            17
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 17,
+          "dependencies": [
+            16,
+            17
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 17,
+          "dependencies": [
+            0,
+            17
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 17,
+          "dependencies": [
+            20,
+            17
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "id": 18,
+      "name": "kotlin.Float",
+      "isBasic": true,
+      "superTypes": [
+        1,
+        2,
+        4
+      ],
+      "properties": [],
+      "functions": [
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0,
+            17
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 18,
+          "dependencies": [
+            16,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 18,
+          "dependencies": [
+            0,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 18,
+          "dependencies": [
+            20,
+            18
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 18,
+          "dependencies": [
+            16,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 18,
+          "dependencies": [
+            0,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 18,
+          "dependencies": [
+            20,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 18,
+          "dependencies": [
+            16,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 18,
+          "dependencies": [
+            0,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 18,
+          "dependencies": [
+            20,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 18,
+          "dependencies": [
+            16,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 18,
+          "dependencies": [
+            0,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 18,
+          "dependencies": [
+            20,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 18,
+          "dependencies": [
+            16,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 18,
+          "dependencies": [
+            0,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 18,
+          "dependencies": [
+            20,
+            18
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "id": 19,
+      "name": "kotlin.Long",
+      "isBasic": true,
+      "superTypes": [
+        1,
+        2,
+        4
+      ],
+      "properties": [],
+      "functions": [
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0,
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 19,
+          "dependencies": [
+            16,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 19,
+          "dependencies": [
+            0,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 19,
+          "dependencies": [
+            20,
+            19
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 19,
+          "dependencies": [
+            16,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 19,
+          "dependencies": [
+            0,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 19,
+          "dependencies": [
+            20,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 19,
+          "dependencies": [
+            16,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 19,
+          "dependencies": [
+            0,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 19,
+          "dependencies": [
+            20,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 23,
+          "dependencies": [
+            16,
+            23
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 23,
+          "dependencies": [
+            0,
+            23
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 23,
+          "dependencies": [
+            19,
+            23
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 23,
+          "dependencies": [
+            20,
+            23
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 19,
+          "dependencies": [
+            16,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 19,
+          "dependencies": [
+            0,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 19,
+          "dependencies": [
+            20,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 19,
+          "dependencies": [
+            0,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 19,
+          "dependencies": [
+            0,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 19,
+          "dependencies": [
+            16,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 19,
+          "dependencies": [
+            0,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 19,
+          "dependencies": [
+            20,
+            19
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 19,
+          "dependencies": [
+            0,
+            19
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "id": 20,
+      "name": "kotlin.Short",
+      "isBasic": true,
+      "superTypes": [
+        1,
+        2,
+        4
+      ],
+      "properties": [],
+      "functions": [
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0,
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0,
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0,
+            19
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 20,
+          "dependencies": [
+            20
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 20,
+          "dependencies": [
+            20
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 21,
+          "dependencies": [
+            16,
+            21
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 21,
+          "dependencies": [
+            0,
+            21
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 23,
+          "dependencies": [
+            19,
+            23
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 21,
+          "dependencies": [
+            20,
+            21
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            16
+          ],
+          "returnType": 0,
+          "dependencies": [
+            16,
+            0
+          ]
+        },
+        {
+          "parameters": [
+            17
+          ],
+          "returnType": 17,
+          "dependencies": [
+            17
+          ]
+        },
+        {
+          "parameters": [
+            18
+          ],
+          "returnType": 18,
+          "dependencies": [
+            18
+          ]
+        },
+        {
+          "parameters": [
+            0
+          ],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [
+            19
+          ],
+          "returnType": 19,
+          "dependencies": [
+            19
+          ]
+        },
+        {
+          "parameters": [
+            20
+          ],
+          "returnType": 0,
+          "dependencies": [
+            20,
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        }
+      ],
+      "dependencies": []
+    },
+    {
+      "id": 21,
+      "name": "kotlin.ranges.IntRange",
+      "isBasic": false,
+      "superTypes": [
+        2,
+        11,
+        22,
+        14
+      ],
+      "properties": [],
+      "functions": [],
+      "dependencies": [
+        2,
+        11,
+        22,
+        14
+      ]
+    },
+    {
+      "id": 22,
+      "name": "kotlin.ranges.IntProgression",
+      "isBasic": false,
+      "superTypes": [
+        2,
+        11
+      ],
+      "properties": [
+        0,
+        0,
+        0
+      ],
+      "functions": [
+        {
+          "parameters": [],
+          "returnType": 3,
+          "dependencies": [
+            3
+          ]
+        }
+      ],
+      "dependencies": [
+        0,
+        2,
+        3,
+        11
+      ]
+    },
+    {
+      "id": 23,
+      "name": "kotlin.ranges.LongRange",
+      "isBasic": false,
+      "superTypes": [
+        24,
+        2,
+        11,
+        14
+      ],
+      "properties": [],
+      "functions": [],
+      "dependencies": [
+        24,
+        2,
+        11,
+        14
+      ]
+    },
+    {
+      "id": 24,
+      "name": "kotlin.ranges.LongProgression",
+      "isBasic": false,
+      "superTypes": [
+        2,
+        11
+      ],
+      "properties": [
+        19,
+        19,
+        19
+      ],
+      "functions": [
+        {
+          "parameters": [],
+          "returnType": 3,
+          "dependencies": [
+            3
+          ]
+        }
+      ],
+      "dependencies": [
+        2,
+        19,
+        3,
+        11
+      ]
+    },
+    {
+      "id": 25,
+      "name": "A",
+      "isBasic": false,
+      "superTypes": [
+        2
+      ],
+      "properties": [
+        0
+      ],
+      "functions": [],
+      "dependencies": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": 26,
+      "name": "B",
+      "isBasic": false,
+      "superTypes": [
+        2
+      ],
+      "properties": [
+        25
+      ],
+      "functions": [
+        {
+          "parameters": [],
+          "returnType": 6,
+          "dependencies": [
+            6
+          ]
+        },
+        {
+          "parameters": [],
+          "returnType": 6,
+          "dependencies": [
+            6
+          ]
+        }
+      ],
+      "dependencies": [
+        25,
+        2,
+        6
+      ]
+    },
+    {
+      "id": 27,
+      "name": "C",
+      "isBasic": false,
+      "superTypes": [
+        25,
+        2
+      ],
+      "properties": [
+        17
+      ],
+      "functions": [],
+      "dependencies": [
+        25,
+        17,
+        2
+      ]
+    },
+    {
+      "id": 28,
+      "name": "D",
+      "isBasic": false,
+      "superTypes": [
+        25,
+        2,
+        27
+      ],
+      "properties": [],
+      "functions": [],
+      "dependencies": [
+        25,
+        2,
+        27
+      ]
+    },
+    {
+      "id": 29,
+      "name": "T",
+      "isBasic": false,
+      "superTypes": [
+        2
+      ],
+      "properties": [
+        0
+      ],
+      "functions": [
+        {
+          "parameters": [],
+          "returnType": 0,
+          "dependencies": [
+            0
+          ]
+        }
+      ],
+      "dependencies": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": 30,
+      "name": "TT",
+      "isBasic": false,
+      "superTypes": [
+        29,
+        2
+      ],
+      "properties": [
+        6
+      ],
+      "functions": [],
+      "dependencies": [
+        2,
+        29,
+        6
+      ]
+    }
+  ],
+  "functions": [
+    {
+      "parameters": [
+        0
+      ],
+      "returnType": 6,
+      "dependencies": [
+        0,
+        6
+      ]
+    },
+    {
+      "parameters": [
+        0
+      ],
+      "returnType": 0,
+      "dependencies": [
+        0
+      ]
+    }
+  ]
+}

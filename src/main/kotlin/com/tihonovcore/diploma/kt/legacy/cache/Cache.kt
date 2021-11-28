@@ -110,7 +110,7 @@ private fun JsonTree.decode(
 ): PsiElement {
     val tokenTypeOrNull = KtTokens::class.java.fields.find { it.name == kind }
     val element = if (tokenTypeOrNull != null) {
-        LeafPsiElement(tokenTypeOrNull.get(ktTokensInstance) as @NotNull IElementType, text)
+        LeafPsiElement(tokenTypeOrNull.get(ktTokensInstance) as IElementType, text)
     } else {
         kind2Psi.decode(kind).apply {
             val f = allChildren.first

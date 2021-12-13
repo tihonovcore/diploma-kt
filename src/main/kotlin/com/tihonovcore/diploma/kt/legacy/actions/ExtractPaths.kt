@@ -12,7 +12,7 @@ import com.tihonovcore.diploma.kt.legacy.stackTraceToString
 import java.io.File
 
 fun extractPaths(project: Project, requestValue: JsonElement): Unit = with(DiplomaConfiguration) {
-    try {
+//    try {
         File(cachedTypeIds).writeText("{ \"freeid\" : 0, \"ids\": {} }")
         File(types).writeText("{ \"classes\" : [], \"functions\": [] }")
 
@@ -22,10 +22,10 @@ fun extractPaths(project: Project, requestValue: JsonElement): Unit = with(Diplo
         File(answer).writeText("PATH")
         File(paths).writeText(pathsJson)
         File(types).writeText(typesJson)
-    } catch (e: Throwable) {
-        File(answer).writeText("ERROR: ${e.stackTraceToString()} \n ${e.cause} \n ${e.message}")
-    }
+//    } catch (e: Throwable) {
+//        File(answer).writeText("ERROR: ${e.stackTraceToString()} \n ${e.cause} \n ${e.message}")
+//    }
 
     /* @outdated: used to prevent caching result by gradle */
-    throw Exception("OK")
+//    throw Exception("OK")
 }

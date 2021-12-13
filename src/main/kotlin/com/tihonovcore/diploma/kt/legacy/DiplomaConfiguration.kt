@@ -9,10 +9,11 @@ import java.io.File
 
 // TODO: read from json
 object DiplomaConfiguration {
-    init {
-        println("### DiplomaConfiguration: " + File("").absolutePath)
-    }
+//    init {
+//        println("### DiplomaConfiguration: " + File("").absolutePath)
+//    }
 
+    //todo: fix paths
     private const val root = "/home/tihonovcore/diploma/kotlin"
     private const val diploma = "$root/compiler/cli/src/org/jetbrains/kotlin/diploma"
     private const val out = "$diploma/out"

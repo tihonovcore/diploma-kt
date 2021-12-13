@@ -1,5 +1,6 @@
 package com.tihonovcore.diploma.kt
 
+import com.google.gson.Gson
 import com.google.gson.JsonParser
 import com.intellij.openapi.util.Disposer
 import com.tihonovcore.diploma.kt.legacy.DiplomaConfiguration
@@ -11,6 +12,7 @@ import org.jetbrains.kotlin.cli.jvm.compiler.EnvironmentConfigFiles
 import org.jetbrains.kotlin.cli.jvm.compiler.KotlinCoreEnvironment
 import org.jetbrains.kotlin.config.CompilerConfiguration
 import java.io.File
+import java.nio.file.Paths
 
 object Compiler {
     private val configuration: CompilerConfiguration
@@ -32,14 +34,16 @@ object Compiler {
     }
 
     fun doActionByRequestFile() {
-        val requestText = File(DiplomaConfiguration.requestJson).readText()
-        val (requestType, request) = JsonParser.parseString(requestText).asJsonObject.let { Pair(it["request_type"].asString, it["request"]) }
+//        val requestText = File(DiplomaConfiguration.requestJson).readText()
+//        val (requestType, request) = JsonParser.parseString(requestText).asJsonObject.let { Pair(it["request_type"].asString, it["request"]) }
 
-        when (requestType) {
-            "EXTRACT_PATHS" -> extractPaths(environment.project, request)
-            "ON_PREDICT" -> onPredict(environment.project, request)
-            else -> throw IllegalArgumentException("Wrong request type: $requestType")
-        }
+        val pathToAnyKotlinFile = Paths.get("").toAbsolutePath().toString() + "/src/main/kotlin/com/tihonovcore/diploma/kt/Main.kt"
+        extractPaths(environment.project, Gson().toJsonTree(pathToAnyKotlinFile))
+//        when (requestType) {
+//            "EXTRACT_PATHS" -> extractPaths(environment.project, request)
+//            "ON_PREDICT" -> onPredict(environment.project, request)
+//            else -> throw IllegalArgumentException("Wrong request type: $requestType")
+//        }
     }
 
     fun finally() = Disposer.dispose(environment.project)
